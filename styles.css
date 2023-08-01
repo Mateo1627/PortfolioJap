@@ -1,0 +1,44 @@
+body {
+color: white;
+font-family: system-ui;
+background: #000 center/cover url("BGGym.webp") no-repeat;
+background-attachment: fixed;
+}
+ 
+#Main {
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 300%;
+}
+
+.Me{
+    font-size: 250%;
+    position: relative;
+    top: 100px;
+}
+.Email {
+    font-size: 250%;
+color: white;
+position: relative;
+top: 250px;
+left: 1000px;
+
+}
+.Goals {
+    font-size: 250%;
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
+#Exp {
+    font-size: 250%;
+    position: relative;
+    top: 150px;
+    left: 50px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
